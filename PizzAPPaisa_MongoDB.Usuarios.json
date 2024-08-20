@@ -1,0 +1,110 @@
+[{
+  "_id": 1023456789,
+  "tipoUsuario": "CLNT",
+  "usuarioNombre": "Andres",
+  "usuarioApellidos": "Jimenez",
+  "tipoDocumento": "DE",
+  "Documento": 1023456789,
+  "usuarioTelefono": 3901234567,
+  "Correo": "andres.jimenez@ejemplo.com",
+  "Contrasena": "cliente104"
+},
+{
+  "_id": 1234567890,
+  "tipoUsuario": "ADMIN",
+  "usuarioNombre": "Juan",
+  "usuarioApellidos": "Perez",
+  "tipoDocumento": "CC",
+  "Documento": 1234567890,
+  "usuarioTelefono": 3001234567,
+  "Correo": "juan.perez@ejemplo.com",
+  "Contrasena": "admin1234"
+},
+{
+  "_id": 2345678901,
+  "tipoUsuario": "VENDR",
+  "usuarioNombre": "Maria",
+  "usuarioApellidos": "Garcia",
+  "tipoDocumento": "TI",
+  "Documento": 2345678901,
+  "usuarioTelefono": 3101234567,
+  "Correo": "maria.garcia@ejemplo.com",
+  "Contrasena": "vend1234"
+},
+{
+  "_id": 3456789012,
+  "tipoUsuario": "VENDR",
+  "usuarioNombre": "Luis",
+  "usuarioApellidos": "Martinez",
+  "tipoDocumento": "CE",
+  "Documento": 3456789012,
+  "usuarioTelefono": 3201234567,
+  "Correo": "luis.martinez@ejemplo.com",
+  "Contrasena": "vend5678"
+},
+{
+  "_id": 4567890123,
+  "tipoUsuario": "CLNT",
+  "usuarioNombre": "Ana",
+  "usuarioApellidos": "Rodriguez",
+  "tipoDocumento": "CC",
+  "Documento": 4567890123,
+  "usuarioTelefono": 3301234567,
+  "Correo": "ana.rodriguez@ejemplo.com",
+  "Contrasena": "cliente123"
+},
+{
+  "_id": 5678901234,
+  "tipoUsuario": "CLNT",
+  "usuarioNombre": "Carlos",
+  "usuarioApellidos": "Mendoza",
+  "tipoDocumento": "TI",
+  "Documento": 5678901234,
+  "usuarioTelefono": 3401234567,
+  "Correo": "carlos.mendoza@ejemplo.com",
+  "Contrasena": "cliente456"
+},
+{
+  "_id": 6789012345,
+  "tipoUsuario": "CLNT",
+  "usuarioNombre": "Laura",
+  "usuarioApellidos": "Castro",
+  "tipoDocumento": "DE",
+  "Documento": 6789012345,
+  "usuarioTelefono": 3501234567,
+  "Correo": "laura.castro@ejemplo.com",
+  "Contrasena": "cliente789"
+},
+{
+  "_id": 7890123456,
+  "tipoUsuario": "CLNT",
+  "usuarioNombre": "Pedro",
+  "usuarioApellidos": "Sqnchez",
+  "tipoDocumento": "CC",
+  "Documento": 7890123456,
+  "usuarioTelefono": 3601234567,
+  "Correo": "pedro.sanchez@ejemplo.com",
+  "Contrasena": "cliente101"
+},
+{
+  "_id": 8901234567,
+  "tipoUsuario": "CLNT",
+  "usuarioNombre": "Isabella",
+  "usuarioApellidos": "Lopez",
+  "tipoDocumento": "TI",
+  "Documento": 8901234567,
+  "usuarioTelefono": 3701234567,
+  "Correo": "isabella.lopez@ejemplo.com",
+  "Contrasena": "cliente102"
+},
+{
+  "_id": 9012345678,
+  "tipoUsuario": "CLNT",
+  "usuarioNombre": "Sofia",
+  "usuarioApellidos": "Torres",
+  "tipoDocumento": "CE",
+  "Documento": 9012345678,
+  "usuarioTelefono": 3801234567,
+  "Correo": "sofia.torres@ejemplo.com",
+  "Contrasena": "cliente103"
+}]

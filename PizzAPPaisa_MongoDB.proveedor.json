@@ -1,0 +1,184 @@
+[{
+  "_id": "000001",
+  "nombreProveedor": "Proveedores Alimentarios S.A.",
+  "apellidosProveedor": null,
+  "telefonoProveedor": 3001234567,
+  "Direccion": "Carrera 10 #15-20",
+  "Indicasiones": "Centro-Bogota"
+},
+{
+  "_id": "000002",
+  "nombreProveedor": "Luis",
+  "apellidosProveedor": "Gomez",
+  "telefonoProveedor": 3012345678,
+  "Direccion": "Avenida 7 #12-34",
+  "Indicasiones": "Zona Norte-Bogota"
+},
+{
+  "_id": "000003",
+  "nombreProveedor": "Tomate y Salsa Ltda.",
+  "apellidosProveedor": null,
+  "telefonoProveedor": 3023456789,
+  "Direccion": "Calle 3 #45-67",
+  "Indicasiones": "Sur-Bogota"
+},
+{
+  "_id": "000004",
+  "nombreProveedor": "Maria",
+  "apellidosProveedor": "Perez",
+  "telefonoProveedor": 3034567890,
+  "Direccion": "Carrera 5 #67-89",
+  "Indicasiones": "Zona Centro-Bogota"
+},
+{
+  "_id": "000005",
+  "nombreProveedor": "Frutas Tropicales S.A.",
+  "apellidosProveedor": null,
+  "telefonoProveedor": 3045678901,
+  "Direccion": "Avenida 9 #10-11",
+  "Indicasiones": "Occidente-Bogota"
+},
+{
+  "_id": "000006",
+  "nombreProveedor": "Ana",
+  "apellidosProveedor": "Martinez",
+  "telefonoProveedor": 3056789012,
+  "Direccion": "Calle 8 #21-22",
+  "Indicasiones": "Este-Bogota"
+},
+{
+  "_id": "000007",
+  "nombreProveedor": "Carlos",
+  "apellidosProveedor": "Reyes",
+  "telefonoProveedor": 3067890123,
+  "Direccion": "Carrera 6 #34-56",
+  "Indicasiones": "Sur-Bogota"
+},
+{
+  "_id": "000008",
+  "nombreProveedor": "Carnes del Valle S.A.",
+  "apellidosProveedor": null,
+  "telefonoProveedor": 3078901234,
+  "Direccion": "Avenida 3 #44-55",
+  "Indicasiones": "Norte-Bogota"
+},
+{
+  "_id": "000009",
+  "nombreProveedor": "Jorge",
+  "apellidosProveedor": "García",
+  "telefonoProveedor": 3089012345,
+  "Direccion": "Calle 5 #56-78",
+  "Indicasiones": "Centro-Bogota"
+},
+{
+  "_id": "000010",
+  "nombreProveedor": "Chorizos y Embutidos Ltda.",
+  "apellidosProveedor": null,
+  "telefonoProveedor": 3090123456,
+  "Direccion": "Carrera 2 #11-22",
+  "Indicasiones": "Centro-Bogota"
+},
+{
+  "_id": "000011",
+  "nombreProveedor": "Agricola El Campo S.A.",
+  "apellidosProveedor": null,
+  "telefonoProveedor": 3101234567,
+  "Direccion": "Avenida 6 #77-88",
+  "Indicasiones": "Sur-Bogota"
+},
+{
+  "_id": "000012",
+  "nombreProveedor": "Isabel",
+  "apellidosProveedor": "Hernandez",
+  "telefonoProveedor": 3112345678,
+  "Direccion": "Calle 12 #23-24",
+  "Indicasiones": "Norte-Bogota"
+},
+{
+  "_id": "000013",
+  "nombreProveedor": "Carnes del Norte S.A.",
+  "apellidosProveedor": null,
+  "telefonoProveedor": 3123456789,
+  "Direccion": "Carrera 15 #22-33",
+  "Indicasiones": "Norte-Bogota"
+},
+{
+  "_id": "000014",
+  "nombreProveedor": "Laura",
+  "apellidosProveedor": "Torres",
+  "telefonoProveedor": 3134567890,
+  "Direccion": "Avenida 4 #31-32",
+  "Indicasiones": "Occidente-Bogota"
+},
+{
+  "_id": "000015",
+  "nombreProveedor": "Salsas Gourmet Ltda.",
+  "apellidosProveedor": null,
+  "telefonoProveedor": 3145678901,
+  "Direccion": "Carrera 8 #21-22",
+  "Indicasiones": "Centro-Bogota"
+},
+{
+  "_id": "000016",
+  "nombreProveedor": "Pepperoni del Valle S.A.",
+  "apellidosProveedor": null,
+  "telefonoProveedor": 3156789012,
+  "Direccion": "Calle 2 #33-44",
+  "Indicasiones": "Norte-Bogota"
+},
+{
+  "_id": "000017",
+  "nombreProveedor": "Ricardo",
+  "apellidosProveedor": "Valencia",
+  "telefonoProveedor": 3167890123,
+  "Direccion": "Avenida 5 #45-46",
+  "Indicasiones": "Centro-Bogota"
+},
+{
+  "_id": "000018",
+  "nombreProveedor": "Verduras Frescas Ltda.",
+  "apellidosProveedor": null,
+  "telefonoProveedor": 3178901234,
+  "Direccion": "Calle 6 #56-57",
+  "Indicasiones": "Sur-Bogota"
+},
+{
+  "_id": "000019",
+  "nombreProveedor": "Luis",
+  "apellidosProveedor": "Hernandez",
+  "telefonoProveedor": 3189012345,
+  "Direccion": "Avenida 10 #12-13",
+  "Indicasiones": "Norte-Bogota"
+},
+{
+  "_id": "000020",
+  "nombreProveedor": "Hongos y Setas S.A.",
+  "apellidosProveedor": null,
+  "telefonoProveedor": 3190123456,
+  "Direccion": "Carrera 7 #77-88",
+  "Indicasiones": "Este-Bogota"
+},
+{
+  "_id": "000021",
+  "nombreProveedor": "Pedro",
+  "apellidosProveedor": "Lopez",
+  "telefonoProveedor": 3201234567,
+  "Direccion": "Calle 4 #44-45",
+  "Indicasiones": "Occidente-Bogota"
+},
+{
+  "_id": "000022",
+  "nombreProveedor": "Picantes S.A.",
+  "apellidosProveedor": null,
+  "telefonoProveedor": 3212345678,
+  "Direccion": "Avenida 7 #67-68",
+  "Indicasiones": "Sur-Bogota"
+},
+{
+  "_id": "000023",
+  "nombreProveedor": "Natalia",
+  "apellidosProveedor": "Rodriguez",
+  "telefonoProveedor": 3223456789,
+  "Direccion": "Calle 9 #23-24",
+  "Indicasiones": "Centro-Bogota"
+}]

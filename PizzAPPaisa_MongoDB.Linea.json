@@ -1,0 +1,108 @@
+[{
+  "_id": "CBBQ_000001",
+  "idSabor": "CBBQ",
+  "idPedido": "000001",
+  "numeroPorciones": 2
+},
+{
+  "_id": "HAWIA_000001",
+  "idSabor": "HAWIA",
+  "idPedido": "000001",
+  "numeroPorciones": 1
+},
+{
+  "_id": "MEXIC_000002",
+  "idSabor": "MEXIC",
+  "idPedido": "000002",
+  "numeroPorciones": 2
+},
+{
+  "_id": "RANCH_000002",
+  "idSabor": "RANCH",
+  "idPedido": "000002",
+  "numeroPorciones": 1
+},
+{
+  "_id": "MADUR_000003",
+  "idSabor": "MADUR",
+  "idPedido": "000003",
+  "numeroPorciones": 1
+},
+{
+  "_id": "TROPIC_000004",
+  "idSabor": "TROPIC",
+  "idPedido": "000004",
+  "numeroPorciones": 1
+},
+{
+  "_id": "PCHAMP_000004",
+  "idSabor": "PCHAMP",
+  "idPedido": "000004",
+  "numeroPorciones": 1
+},
+{
+  "_id": "MTOCIN_000005",
+  "idSabor": "MTOCIN",
+  "idPedido": "000005",
+  "numeroPorciones": 3
+},
+{
+  "_id": "CBBQ_000006",
+  "idSabor": "CBBQ",
+  "idPedido": "000006",
+  "numeroPorciones": 2
+},
+{
+  "_id": "MADUR_000006",
+  "idSabor": "MADUR",
+  "idPedido": "000006",
+  "numeroPorciones": 1
+},
+{
+  "_id": "HAWIA_000007",
+  "idSabor": "HAWIA",
+  "idPedido": "000007",
+  "numeroPorciones": 2
+},
+{
+  "_id": "MEXIC_000007",
+  "idSabor": "MEXIC",
+  "idPedido": "000007",
+  "numeroPorciones": 1
+},
+{
+  "_id": "PCHAMP_000008",
+  "idSabor": "PCHAMP",
+  "idPedido": "000008",
+  "numeroPorciones": 1
+},
+{
+  "_id": "RANCH_000008",
+  "idSabor": "RANCH",
+  "idPedido": "000008",
+  "numeroPorciones": 1
+},
+{
+  "_id": "CBBQ_000009",
+  "idSabor": "CBBQ",
+  "idPedido": "000009",
+  "numeroPorciones": 2
+},
+{
+  "_id": "TROPIC_000009",
+  "idSabor": "TROPIC",
+  "idPedido": "000009",
+  "numeroPorciones": 1
+},
+{
+  "_id": "MEXIC_000010",
+  "idSabor": "MEXIC",
+  "idPedido": "000010",
+  "numeroPorciones": 2
+},
+{
+  "_id": "MADUR_000010",
+  "idSabor": "MADUR",
+  "idPedido": "000010",
+  "numeroPorciones": 1
+}]

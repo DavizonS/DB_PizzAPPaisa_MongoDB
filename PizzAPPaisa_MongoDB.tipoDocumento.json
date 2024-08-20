@@ -1,0 +1,16 @@
+[{
+  "_id": "CC",
+  "tipoDocumento": "Cédula de Ciudadanía"
+},
+{
+  "_id": "CE",
+  "tipoDocumento": "Cédula de Extranjería"
+},
+{
+  "_id": "DE",
+  "tipoDocumento": "Documento de Identidad para Extranjeros"
+},
+{
+  "_id": "TI",
+  "tipoDocumento": "Tarjeta de Identidad"
+}]

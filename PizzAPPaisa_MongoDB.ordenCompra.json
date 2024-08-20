@@ -1,0 +1,161 @@
+[{
+  "_id": 1,
+  "usuarioDocumento": 1234567890,
+  "fechaPedido": {
+    "$date": "2024-08-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": 2,
+  "usuarioDocumento": 1234567890,
+  "fechaPedido": {
+    "$date": "2024-08-18T00:00:00.000Z"
+  }
+},
+{
+  "_id": 3,
+  "usuarioDocumento": 2345678901,
+  "fechaPedido": {
+    "$date": "2024-08-18T00:00:00.000Z"
+  }
+},
+{
+  "_id": 4,
+  "usuarioDocumento": 3456789012,
+  "fechaPedido": {
+    "$date": "2024-08-19T00:00:00.000Z"
+  }
+},
+{
+  "_id": 5,
+  "usuarioDocumento": 1234567890,
+  "fechaPedido": {
+    "$date": "2024-08-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": 6,
+  "usuarioDocumento": 2345678901,
+  "fechaPedido": {
+    "$date": "2024-08-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": 7,
+  "usuarioDocumento": 3456789012,
+  "fechaPedido": {
+    "$date": "2024-08-21T00:00:00.000Z"
+  }
+},
+{
+  "_id": 8,
+  "usuarioDocumento": 1234567890,
+  "fechaPedido": {
+    "$date": "2024-08-21T00:00:00.000Z"
+  }
+},
+{
+  "_id": 9,
+  "usuarioDocumento": 2345678901,
+  "fechaPedido": {
+    "$date": "2024-08-22T00:00:00.000Z"
+  }
+},
+{
+  "_id": 10,
+  "usuarioDocumento": 3456789012,
+  "fechaPedido": {
+    "$date": "2024-08-22T00:00:00.000Z"
+  }
+},
+{
+  "_id": 11,
+  "usuarioDocumento": 1234567890,
+  "fechaPedido": {
+    "$date": "2024-08-23T00:00:00.000Z"
+  }
+},
+{
+  "_id": 12,
+  "usuarioDocumento": 2345678901,
+  "fechaPedido": {
+    "$date": "2024-08-23T00:00:00.000Z"
+  }
+},
+{
+  "_id": 13,
+  "usuarioDocumento": 3456789012,
+  "fechaPedido": {
+    "$date": "2024-08-24T00:00:00.000Z"
+  }
+},
+{
+  "_id": 14,
+  "usuarioDocumento": 1234567890,
+  "fechaPedido": {
+    "$date": "2024-08-24T00:00:00.000Z"
+  }
+},
+{
+  "_id": 15,
+  "usuarioDocumento": 2345678901,
+  "fechaPedido": {
+    "$date": "2024-08-25T00:00:00.000Z"
+  }
+},
+{
+  "_id": 16,
+  "usuarioDocumento": 3456789012,
+  "fechaPedido": {
+    "$date": "2024-08-25T00:00:00.000Z"
+  }
+},
+{
+  "_id": 17,
+  "usuarioDocumento": 1234567890,
+  "fechaPedido": {
+    "$date": "2024-08-26T00:00:00.000Z"
+  }
+},
+{
+  "_id": 18,
+  "usuarioDocumento": 2345678901,
+  "fechaPedido": {
+    "$date": "2024-08-26T00:00:00.000Z"
+  }
+},
+{
+  "_id": 19,
+  "usuarioDocumento": 3456789012,
+  "fechaPedido": {
+    "$date": "2024-08-27T00:00:00.000Z"
+  }
+},
+{
+  "_id": 20,
+  "usuarioDocumento": 1234567890,
+  "fechaPedido": {
+    "$date": "2024-08-27T00:00:00.000Z"
+  }
+},
+{
+  "_id": 21,
+  "usuarioDocumento": 2345678901,
+  "fechaPedido": {
+    "$date": "2024-08-28T00:00:00.000Z"
+  }
+},
+{
+  "_id": 22,
+  "usuarioDocumento": 3456789012,
+  "fechaPedido": {
+    "$date": "2024-08-28T00:00:00.000Z"
+  }
+},
+{
+  "_id": 23,
+  "usuarioDocumento": 1234567890,
+  "fechaPedido": {
+    "$date": "2024-08-29T00:00:00.000Z"
+  }
+}]

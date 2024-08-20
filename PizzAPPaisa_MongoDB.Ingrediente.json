@@ -1,0 +1,115 @@
+[{
+  "_id": "CAMPIN",
+  "Descripcion": "Campinones",
+  "Existencias": 7.5
+},
+{
+  "_id": "CARNE",
+  "Descripcion": "Carne",
+  "Existencias": 9
+},
+{
+  "_id": "CEBOLL",
+  "Descripcion": "Cebolla",
+  "Existencias": 6.2
+},
+{
+  "_id": "CERALM",
+  "Descripcion": "CerezasAlmibar",
+  "Existencias": 5.8
+},
+{
+  "_id": "CHORI",
+  "Descripcion": "Chorizo",
+  "Existencias": 8.6
+},
+{
+  "_id": "DURALM",
+  "Descripcion": "DuraznosAlmibar",
+  "Existencias": 7.25
+},
+{
+  "_id": "JALAP",
+  "Descripcion": "Jalapenos",
+  "Existencias": 6.75
+},
+{
+  "_id": "JAMON",
+  "Descripcion": "Jamon",
+  "Existencias": 9.1
+},
+{
+  "_id": "MADURO",
+  "Descripcion": "Maduro",
+  "Existencias": 7.9
+},
+{
+  "_id": "MAIZ",
+  "Descripcion": "Maiz",
+  "Existencias": 7.3
+},
+{
+  "_id": "MANGO",
+  "Descripcion": "Mango",
+  "Existencias": 8.45
+},
+{
+  "_id": "MASA",
+  "Descripcion": "Masa",
+  "Existencias": 9.99
+},
+{
+  "_id": "PASTOM",
+  "Descripcion": "Pasta de tomate",
+  "Existencias": 8.1
+},
+{
+  "_id": "PEPPER",
+  "Descripcion": "Pepperoni",
+  "Existencias": 9.4
+},
+{
+  "_id": "PIMIEN",
+  "Descripcion": "Pimiento",
+  "Existencias": 6.85
+},
+{
+  "_id": "PINA",
+  "Descripcion": "Pina",
+  "Existencias": 5.95
+},
+{
+  "_id": "POLLO",
+  "Descripcion": "Pollo",
+  "Existencias": 9.3
+},
+{
+  "_id": "QUESO",
+  "Descripcion": "Queso",
+  "Existencias": 9.75
+},
+{
+  "_id": "SALCHI",
+  "Descripcion": "Salchichas",
+  "Existencias": 7
+},
+{
+  "_id": "SALSA",
+  "Descripcion": "Salsa de tomate",
+  "Existencias": 8.9
+},
+{
+  "_id": "SBBQ",
+  "Descripcion": "Salsa BBQ",
+  "Existencias": 8
+},
+{
+  "_id": "TOCINE",
+  "Descripcion": "Tocineta",
+  "Existencias": 9.5
+},
+{
+  "_id": "UVASPA",
+  "Descripcion": "Uvas pasas",
+  "Existencias": 7.65
+}]

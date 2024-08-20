@@ -1,0 +1,50 @@
+[{
+  "_id": "CBBQ",
+  "nombrePizza": "Carne BBQ",
+  "precioPorcion": "15000"
+},
+{
+  "_id": "CTRAD",
+  "nombrePizza": "Carne Tradicional",
+  "precioPorcion": "13000"
+},
+{
+  "_id": "HAWIA",
+  "nombrePizza": "Hawiana",
+  "precioPorcion": "12000"
+},
+{
+  "_id": "MARDUR",
+  "nombrePizza": "Maduro",
+  "precioPorcion": "11500"
+},
+{
+  "_id": "Mexic",
+  "nombrePizza": "Mexicana",
+  "precioPorcion": "14500"
+},
+{
+  "_id": "MTOCIN",
+  "nombrePizza": "Mango Tocineta",
+  "precioPorcion": "15000"
+},
+{
+  "_id": "PAISA",
+  "nombrePizza": "Paiza",
+  "precioPorcion": "13500"
+},
+{
+  "_id": "PCHAMP",
+  "nombrePizza": "Pollo Champinones",
+  "precioPorcion": "14000"
+},
+{
+  "_id": "RANCH",
+  "nombrePizza": "Ranchera",
+  "precioPorcion": "14000"
+},
+{
+  "_id": "TROPIC",
+  "nombrePizza": "Tropical",
+  "precioPorcion": "12500"
+}]

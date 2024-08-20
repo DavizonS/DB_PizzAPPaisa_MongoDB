@@ -1,0 +1,230 @@
+[{
+  "_id": 1,
+  "idIngrediente": "MASA",
+  "idProveedor": "000001",
+  "cantidadSolicitada": 9.99,
+  "cantidadComprada": 9.99,
+  "fechaCompra": {
+    "$date": "2024-07-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": 2,
+  "idIngrediente": "UVASPA",
+  "idProveedor": "000002",
+  "cantidadSolicitada": 9.99,
+  "cantidadComprada": 9.8,
+  "fechaCompra": {
+    "$date": "2024-07-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": 3,
+  "idIngrediente": "PASTOM",
+  "idProveedor": "000003",
+  "cantidadSolicitada": 9.99,
+  "cantidadComprada": 9.99,
+  "fechaCompra": {
+    "$date": "2024-07-07T00:00:00.000Z"
+  }
+},
+{
+  "_id": 4,
+  "idIngrediente": "QUESO",
+  "idProveedor": "000004",
+  "cantidadSolicitada": 9.99,
+  "cantidadComprada": 9.99,
+  "fechaCompra": {
+    "$date": "2024-07-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": 5,
+  "idIngrediente": "PINA",
+  "idProveedor": "000005",
+  "cantidadSolicitada": 9.99,
+  "cantidadComprada": 9.99,
+  "fechaCompra": {
+    "$date": "2024-07-12T00:00:00.000Z"
+  }
+},
+{
+  "_id": 6,
+  "idIngrediente": "DURALM",
+  "idProveedor": "000006",
+  "cantidadSolicitada": 9.99,
+  "cantidadComprada": 9.99,
+  "fechaCompra": {
+    "$date": "2024-07-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": 7,
+  "idIngrediente": "CERALM",
+  "idProveedor": "000007",
+  "cantidadSolicitada": 9.99,
+  "cantidadComprada": 9.99,
+  "fechaCompra": {
+    "$date": "2024-07-18T00:00:00.000Z"
+  }
+},
+{
+  "_id": 8,
+  "idIngrediente": "TOCINE",
+  "idProveedor": "000008",
+  "cantidadSolicitada": 9.99,
+  "cantidadComprada": 9.99,
+  "fechaCompra": {
+    "$date": "2024-07-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": 9,
+  "idIngrediente": "CEBOLL",
+  "idProveedor": "000009",
+  "cantidadSolicitada": 9.99,
+  "cantidadComprada": 9.99,
+  "fechaCompra": {
+    "$date": "2024-07-22T00:00:00.000Z"
+  }
+},
+{
+  "_id": 10,
+  "idIngrediente": "CHORI",
+  "idProveedor": "000010",
+  "cantidadSolicitada": 9.99,
+  "cantidadComprada": 9.99,
+  "fechaCompra": {
+    "$date": "2024-07-25T00:00:00.000Z"
+  }
+},
+{
+  "_id": 11,
+  "idIngrediente": "MAIZ",
+  "idProveedor": "000011",
+  "cantidadSolicitada": 9.99,
+  "cantidadComprada": 9.99,
+  "fechaCompra": {
+    "$date": "2024-07-28T00:00:00.000Z"
+  }
+},
+{
+  "_id": 12,
+  "idIngrediente": "MANGO",
+  "idProveedor": "000012",
+  "cantidadSolicitada": 9.99,
+  "cantidadComprada": 9.99,
+  "fechaCompra": {
+    "$date": "2024-07-30T00:00:00.000Z"
+  }
+},
+{
+  "_id": 13,
+  "idIngrediente": "CARNE",
+  "idProveedor": "000013",
+  "cantidadSolicitada": 9.99,
+  "cantidadComprada": 9.99,
+  "fechaCompra": {
+    "$date": "2024-08-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": 14,
+  "idIngrediente": "MADURO",
+  "idProveedor": "000014",
+  "cantidadSolicitada": 9.99,
+  "cantidadComprada": 9.9,
+  "fechaCompra": {
+    "$date": "2024-08-03T00:00:00.000Z"
+  }
+},
+{
+  "_id": 15,
+  "idIngrediente": "SALSA",
+  "idProveedor": "000015",
+  "cantidadSolicitada": 9.99,
+  "cantidadComprada": 9.99,
+  "fechaCompra": {
+    "$date": "2024-08-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": 16,
+  "idIngrediente": "PEPPER",
+  "idProveedor": "000016",
+  "cantidadSolicitada": 9.99,
+  "cantidadComprada": 9.99,
+  "fechaCompra": {
+    "$date": "2024-08-08T00:00:00.000Z"
+  }
+},
+{
+  "_id": 17,
+  "idIngrediente": "SBBQ",
+  "idProveedor": "000017",
+  "cantidadSolicitada": 9.99,
+  "cantidadComprada": 9.99,
+  "fechaCompra": {
+    "$date": "2024-08-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": 18,
+  "idIngrediente": "PIMIEN",
+  "idProveedor": "000018",
+  "cantidadSolicitada": 9.99,
+  "cantidadComprada": 9.99,
+  "fechaCompra": {
+    "$date": "2024-08-12T00:00:00.000Z"
+  }
+},
+{
+  "_id": 19,
+  "idIngrediente": "POLLO",
+  "idProveedor": "000019",
+  "cantidadSolicitada": 9.99,
+  "cantidadComprada": 9.99,
+  "fechaCompra": {
+    "$date": "2024-08-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": 20,
+  "idIngrediente": "CAMPIN",
+  "idProveedor": "000020",
+  "cantidadSolicitada": 9.99,
+  "cantidadComprada": 9.99,
+  "fechaCompra": {
+    "$date": "2024-08-18T00:00:00.000Z"
+  }
+},
+{
+  "_id": 21,
+  "idIngrediente": "SALCHI",
+  "idProveedor": "000021",
+  "cantidadSolicitada": 9.99,
+  "cantidadComprada": 9.99,
+  "fechaCompra": {
+    "$date": "2024-08-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": 22,
+  "idIngrediente": "JALAP",
+  "idProveedor": "000022",
+  "cantidadSolicitada": 9.99,
+  "cantidadComprada": 9.85,
+  "fechaCompra": {
+    "$date": "2024-08-22T00:00:00.000Z"
+  }
+},
+{
+  "_id": 23,
+  "idIngrediente": "JAMON",
+  "idProveedor": "000023",
+  "cantidadSolicitada": 9.99,
+  "cantidadComprada": 9.99,
+  "fechaCompra": {
+    "$date": "2024-08-25T00:00:00.000Z"
+  }
+}]

@@ -1,0 +1,120 @@
+[{
+  "_id": "000001",
+  "fechaHoraRealizacion": {
+    "$date": "2024-08-18T14:30:00.000Z"
+  },
+  "usuarioDocumento": "2345678901",
+  "fechaHoraEntrega": {
+    "$date": "2024-08-18T16:00:00.000Z"
+  },
+  "precioTotal": 30000,
+  "Entregado": 0
+},
+{
+  "_id": "000002",
+  "fechaHoraRealizacion": {
+    "$date": "2024-08-18T15:00:00.000Z"
+  },
+  "usuarioDocumento": "2345678901",
+  "fechaHoraEntrega": {
+    "$date": "2024-08-18T17:00:00.000Z"
+  },
+  "precioTotal": 46000,
+  "Entregado": 0
+},
+{
+  "_id": "000003",
+  "fechaHoraRealizacion": {
+    "$date": "2024-08-18T16:00:00.000Z"
+  },
+  "usuarioDocumento": "3456789012",
+  "fechaHoraEntrega": {
+    "$date": "2024-08-18T18:00:00.000Z"
+  },
+  "precioTotal": 11500,
+  "Entregado": 1
+},
+{
+  "_id": "000004",
+  "fechaHoraRealizacion": {
+    "$date": "2024-08-18T17:00:00.000Z"
+  },
+  "usuarioDocumento": "3456789012",
+  "fechaHoraEntrega": {
+    "$date": "2024-08-18T19:00:00.000Z"
+  },
+  "precioTotal": 26500,
+  "Entregado": 0
+},
+{
+  "_id": "000005",
+  "fechaHoraRealizacion": {
+    "$date": "2024-08-18T18:00:00.000Z"
+  },
+  "usuarioDocumento": "4567890123",
+  "fechaHoraEntrega": {
+    "$date": "2024-08-18T20:00:00.000Z"
+  },
+  "precioTotal": 45000,
+  "Entregado": 0
+},
+{
+  "_id": "000006",
+  "fechaHoraRealizacion": {
+    "$date": "2024-08-18T19:00:00.000Z"
+  },
+  "usuarioDocumento": "5678901234",
+  "fechaHoraEntrega": {
+    "$date": "2024-08-18T21:00:00.000Z"
+  },
+  "precioTotal": 35000,
+  "Entregado": 0
+},
+{
+  "_id": "000007",
+  "fechaHoraRealizacion": {
+    "$date": "2024-08-18T20:00:00.000Z"
+  },
+  "usuarioDocumento": "5678901234",
+  "fechaHoraEntrega": {
+    "$date": "2024-08-18T22:00:00.000Z"
+  },
+  "precioTotal": 23000,
+  "Entregado": 0
+},
+{
+  "_id": "000008",
+  "fechaHoraRealizacion": {
+    "$date": "2024-08-18T21:00:00.000Z"
+  },
+  "usuarioDocumento": "6789012345",
+  "fechaHoraEntrega": {
+    "$date": "2024-08-18T23:00:00.000Z"
+  },
+  "precioTotal": 32000,
+  "Entregado": 1
+},
+{
+  "_id": "000009",
+  "fechaHoraRealizacion": {
+    "$date": "2024-08-18T22:00:00.000Z"
+  },
+  "usuarioDocumento": "7890123456",
+  "fechaHoraEntrega": {
+    "$date": "2024-08-19T00:00:00.000Z"
+  },
+  "precioTotal": 40000,
+  "Entregado": 0
+},
+{
+  "_id": "000010",
+  "fechaHoraRealizacion": {
+    "$date": "2024-08-18T23:00:00.000Z"
+  },
+  "usuarioDocumento": "8901234567",
+  "fechaHoraEntrega": {
+    "$date": "2024-08-19T01:00:00.000Z"
+  },
+  "precioTotal": 28000,
+  "Entregado": 0
+}]

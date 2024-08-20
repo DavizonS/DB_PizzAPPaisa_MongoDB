@@ -1,0 +1,150 @@
+[{
+  "_id": "TROPIC_MASA",
+  "idSabor": "TROPIC",
+  "idIngrediente": "MASA",
+  "Cantidad": 0.13
+},
+{
+  "_id": "TROPIC_UVASPA",
+  "idSabor": "TROPIC",
+  "idIngrediente": "UVASPA",
+  "Cantidad": 0.03
+},
+{
+  "_id": "TROPIC_PASTOM",
+  "idSabor": "TROPIC",
+  "idIngrediente": "PASTOM",
+  "Cantidad": 0.05
+},
+{
+  "_id": "TROPIC_QUESO",
+  "idSabor": "TROPIC",
+  "idIngrediente": "QUESO",
+  "Cantidad": 0.05
+},
+{
+  "_id": "TROPIC_PINA",
+  "idSabor": "TROPIC",
+  "idIngrediente": "PINA",
+  "Cantidad": 0.04
+},
+{
+  "_id": "TROPIC_DURALM",
+  "idSabor": "TROPIC",
+  "idIngrediente": "DURALM",
+  "Cantidad": 0.03
+},
+{
+  "_id": "TROPIC_CERALM",
+  "idSabor": "TROPIC",
+  "idIngrediente": "CERALM",
+  "Cantidad": 0.03
+},
+{
+  "_id": "PAISA_MASA",
+  "idSabor": "PAISA",
+  "idIngrediente": "MASA",
+  "Cantidad": 0.13
+},
+{
+  "_id": "PAISA_TOCINE",
+  "idSabor": "PAISA",
+  "idIngrediente": "TOCINE",
+  "Cantidad": 0.04
+},
+{
+  "_id": "PAISA_PASTOM",
+  "idSabor": "PAISA",
+  "idIngrediente": "PASTOM",
+  "Cantidad": 0.05
+},
+{
+  "_id": "PAISA_QUESO",
+  "idSabor": "PAISA",
+  "idIngrediente": "QUESO",
+  "Cantidad": 0.05
+},
+{
+  "_id": "PAISA_CEBOLL",
+  "idSabor": "PAISA",
+  "idIngrediente": "CEBOLL",
+  "Cantidad": 0.04
+},
+{
+  "_id": "PAISA_CHORI",
+  "idSabor": "PAISA",
+  "idIngrediente": "CHORI",
+  "Cantidad": 0.04
+},
+{
+  "_id": "PAISA_MAIZ",
+  "idSabor": "PAISA",
+  "idIngrediente": "MAIZ",
+  "Cantidad": 0.04
+},
+{
+  "_id": "MTOCIN_MASA",
+  "idSabor": "MTOCIN",
+  "idIngrediente": "MASA",
+  "Cantidad": 0.13
+},
+{
+  "_id": "MTOCIN_MANGO",
+  "idSabor": "MTOCIN",
+  "idIngrediente": "MANGO",
+  "Cantidad": 0.04
+},
+{
+  "_id": "MTOCIN_PASTOM",
+  "idSabor": "MTOCIN",
+  "idIngrediente": "PASTOM",
+  "Cantidad": 0.05
+},
+{
+  "_id": "MTOCIN_QUESO",
+  "idSabor": "MTOCIN",
+  "idIngrediente": "QUESO",
+  "Cantidad": 0.05
+},
+{
+  "_id": "MTOCIN_TOCINE",
+  "idSabor": "MTOCIN",
+  "idIngrediente": "TOCINE",
+  "Cantidad": 0.04
+},
+{
+  "_id": "MADUR_MASA",
+  "idSabor": "MADUR",
+  "idIngrediente": "MASA",
+  "Cantidad": 0.13
+},
+{
+  "_id": "MADUR_CARNE",
+  "idSabor": "MADUR",
+  "idIngrediente": "CARNE",
+  "Cantidad": 0.05
+},
+{
+  "_id": "MADUR_MADURO",
+  "idSabor": "MADUR",
+  "idIngrediente": "MADURO",
+  "Cantidad": 0.05
+},
+{
+  "_id": "MADUR_SALSA",
+  "idSabor": "MADUR",
+  "idIngrediente": "SALSA",
+  "Cantidad": 0.05
+},
+{
+  "_id": "MADUR_QUESO",
+  "idSabor": "MADUR",
+  "idIngrediente": "QUESO",
+  "Cantidad": 0.05
+},
+{
+  "_id": "CBBQ_MASA",
+  "idSabor": "CBBQ",
+  "idIngrediente": "MASA",
+  "Cantidad": 0.13
+}]

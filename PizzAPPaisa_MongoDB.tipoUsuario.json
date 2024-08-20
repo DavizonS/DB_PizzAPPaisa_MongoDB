@@ -1,0 +1,12 @@
+[{
+  "_id": "ADMIN",
+  "tipoUsuario": "Administrador"
+},
+{
+  "_id": "CLNT",
+  "tipoUsuario": "Cliente"
+},
+{
+  "_id": "VENDR",
+  "tipoUsuario": "Vendedor"
+}]
